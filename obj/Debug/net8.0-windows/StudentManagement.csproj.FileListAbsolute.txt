@@ -61,3 +61,5 @@ D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\refint\StudentManagement.d
 D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\StudentManagement.pdb
 D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\StudentManagement.genruntimeconfig.cache
 D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\ref\StudentManagement.dll
+D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\StudentManagement.Form3.resources
+D:\a.1WinformThayThinh\Buoi3\obj\Debug\net8.0-windows\StudentManagement.sourcelink.json
